@@ -1,0 +1,14 @@
+{
+  "name": "roblox-stats-bot",
+  "version": "1.0.0",
+  "description": "Production Discord bot for Roblox stats",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  }
+}
